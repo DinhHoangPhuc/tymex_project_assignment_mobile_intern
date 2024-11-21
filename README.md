@@ -30,9 +30,9 @@ The repository is divided into the following three main folders, each representi
 An android mobile app using Kotlin and Jetpack Compose to convert currency base on rates provided by api
 
 ### **Video demo**
-[![demo](https://markdown-videos-api.jorgenkh.no/https://drive.google.com/file/d/1R4GtpUF9Ktq0GJLDTiBbUAUXfl8DfE-N/view?usp=sharing)](https://drive.google.com/file/d/1R4GtpUF9Ktq0GJLDTiBbUAUXfl8DfE-N/view?usp=sharing)
+[Click here to watch video demo](https://drive.google.com/file/d/1R4GtpUF9Ktq0GJLDTiBbUAUXfl8DfE-N/view?usp=sharing)
 
-# Note About the Project
+### Note About the Project
 
 This project utilizes the **ExchangeRates API** for fetching currency exchange rates and available currency symbols. Due to the limitations of the **free plan** of the API, the base currency is fixed to **EUR** (Euro). 
 
