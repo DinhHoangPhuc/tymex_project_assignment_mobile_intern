@@ -11,7 +11,7 @@
 ---
 
 ## **Introduction**
-This repository contains multiple projects showcasing different concepts and implementations in programming, ranging from data manipulation to inventory management and currency conversion. Each project is organized into its own folder, and the repository is designed for modular usage and extensibility.
+This repository contains 3 projects for mobile intern project assignment at TymeX, each project is organized into its own folder.
 
 ---
 
@@ -27,21 +27,30 @@ The repository is divided into the following three main folders, each representi
 
 ### **1. Array Manipulation and Missing Number**
 **Description:**  
-This project focuses on operations related to array manipulation, including algorithms to find missing numbers in sequences.  
+A Kotlin-based console project, this project implement algorithm to find missing numbers in sequences.  
 
 #### **How to Run**  
-(To be updated once the details are provided.)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   cd Array_Manipulation_And_Missing_Number
+2. Open the project in **IntelliJ IDEA**.
+3. Build the project using **Gradle Kotlin DSL**.
+4. Locate and run the `main` function in the `Main.kt` file to execute the program.
 
 #### **Technical Details**  
-- **Language:** (To be updated)
-- **IDE:** (To be updated)
-- **Build System:** (To be updated)
-
+- **Language:** Kotlin
+- **IDE:** IntelliJ IDEA
+- **Build System:** Gradle Kotlin DSL
+  
+#### **Example Output**
+When running the program, you might see the following output:
+  
 ---
 
 ### **2. Product Inventory Management**
 **Description:**  
-A Kotlin-based project to manage product inventories. It includes functionalities to calculate total inventory value, sort products, and check stock availability.  
+A Kotlin-based console project to manage product inventories.
 
 #### **How to Run**
 1. Clone the repository:
@@ -55,7 +64,7 @@ A Kotlin-based project to manage product inventories. It includes functionalitie
 #### **Features**
 - Calculate the total value of all products in inventory.
 - Identify the most expensive product.
-- Check stock availability for specific items.
+- Check stock availability for specific item.
 - Sort products by price or quantity in ascending or descending order.
 
 #### **Technical Details**
