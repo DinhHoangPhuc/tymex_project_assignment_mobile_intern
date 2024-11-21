@@ -45,7 +45,7 @@ This constraint is reflected throughout the app's design and functionality to en
 1. Clone the repository:
    ```bash
    git clone https://github.com/DinhHoangPhuc/tymex_project_assignment_mobile_intern.git
-   cd Array_Manipulation_And_Missing_Number
+   cd Conrrency_converter
 2. Open the project in **Android Studio**.
 3. Sync the project with **Gradle files**
 4. Build the project using **Gradle Kotlin DSL**(it might take a while).
