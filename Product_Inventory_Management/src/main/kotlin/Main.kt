@@ -5,7 +5,7 @@ fun main() {
         InventoryItem("Laptop", 999.99, 5),
         InventoryItem("Smartphone", 499.9, 10),
         InventoryItem("Tablet", 299.99, 0),
-        InventoryItem("Smartwatch", 199.99, 3),
+        InventoryItem("Smartwatch", 199.99, 3),z
     )
 
     val inventoryHelper = InventoryHelper()
